@@ -43,10 +43,9 @@ const Hero = () => {
               >
                 <a
                   className="button"
-                  href="../../assets/resume/Arun_Rajak_Resume.pdf"
+                  href={Arun_Rajak_Resume}
                   download="Arun_Rajak_Resume.pdf"
                 >
-                  {" "}
                   <i className="ri-download-line"> Resume</i>
                 </a>
               </button>
