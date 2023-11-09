@@ -1,6 +1,6 @@
 import React from "react";
 import heroImg from "../../assets/images/hero.svg";
-
+import Arun_Rajak_Resume from "../../assets/resume/Arun_Rajak_Resume.pdf"
 const Hero = () => {
   return (
     <section className="pt-0" id="about">
@@ -43,8 +43,8 @@ const Hero = () => {
               >
                 <a
                   className="button"
-                  href="../assets/resume/Arun_Rajak_Resume.pdf"
-                  download="Arun_ResumeOfficial.pdf"
+                  href="../../assets/resume/Arun_Rajak_Resume.pdf"
+                  download="Arun_Rajak_Resume.pdf"
                 >
                   {" "}
                   <i className="ri-download-line"> Resume</i>
