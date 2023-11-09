@@ -23,8 +23,9 @@ const Footer = () => {
           </div>
           <div className="w-full sm:w-1/2">
             <p className="text-gray-300 leading-7 mt-4 sm:mt-0">
-            Frontend developer, I created websites and dashboard . 
-            I have a year of experience and many client are happy with the project carried out.
+           Frontend developer with 6 months' experience in MERN Stack development, 
+            proficient in React JS, HTML, CSS, Tailwind CSS, Node Js, MySQL, MongoDB,
+            and JavaScript. Contributing to web applications at DXFactor Solution.
             </p>
             <div className="flex items-center gap-4  flex-wrap md:gap-8 mt-10">
               <span className="text-gray-300 font-[600] text-[15px]">
