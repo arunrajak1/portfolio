@@ -46,8 +46,8 @@ className="w-full h-[80px] leading-[80px] flex items-center flex='true'">
           {/* ======= Logo end ======= */}
 
           {/* ======= Menu start ====== */}
-          <div className="menu">
-            <ul className="flex items-center gap-[20px]  font-semibold cursor-pointer">
+          <div className="menu flex">
+            <ul className="items-center gap-[20px]  font-semibold cursor-pointer hidden md:flex">
               <li>
                 <a className="text-smallTextColor" href="#about">About</a>
               </li>
