@@ -59,9 +59,9 @@ const Hero = () => {
               <span>
                 <i className="ri-apps-2-line"></i>
               </span>
-              Frontend developer with 6 months' experience in MERN Stack
-              development, proficient in React JS, HTML, CSS, Tailwind CSS, Node
-              Js, MySQL, MongoDB, and JavaScript. Contributing to web
+              Frontend developer with a 1 year experience in MERN Stack
+              development, proficient in React JS, HTML, CSS, Tailwind CSS, NodeJs,
+              ExpressJs, MySQL, MongoDB, and JavaScript. Contributing to web
               applications at DXFactor Solution.
             </p>
             <div className="flex items-center gap-9  mt-14">
